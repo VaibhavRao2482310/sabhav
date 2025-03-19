@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaibhav Rao - Biryani Explorer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #8B0000;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .section {
+            background: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #8B0000;
+            color: white;
+        }
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Vaibhav Rao</h1>
+        <p>A Journey Through India's Best Biryanis 🍛</p>
+    </header>
+
+    <div class="container">
+        
+        <div class="section">
+            <h2>About Me</h2>
+            <p>Hi, I'm Vaibhav Rao, a passionate foodie and biryani lover. I travel across India to explore the unique flavors of biryani, from the fragrant Lucknowi Biryani to the spicy Hyderabadi Biryani.</p>
+        </div>
+
+        <div class="section">
+            <h2>Top Biryanis in India</h2>
+            <ul>
+                <li><b>Hyderabadi Biryani</b> - Spicy and full of flavors 🍛</li>
+                <li><b>Lucknowi Biryani</b> - Mild and aromatic 🌿</li>
+                <li><b>Kolkata Biryani</b> - Includes potatoes and boiled eggs 🥔</li>
+                <li><b>Malabar Biryani</b> - A Kerala special with coconut flavor 🥥</li>
+                <li><b>Dindigul Biryani</b> - South Indian special with jeera samba rice 🍚</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Gallery</h2>
+            <img src="https://source.unsplash.com/600x400/?biryani,food" alt="Biryani">
+            <p>Each plate of biryani tells a different story. Check out my collection of the best biryanis from all over India!</p>
+        </div>
+
+        <div class="section">
+            <h2>Contact Me</h2>
+            <p>Want to share your biryani experiences? Let's connect!</p>
+            <p>Email: <a href="mailto:vaibhavrao@example.com">vaibhavrao@example.com</a></p>
+            <p>Instagram: <a href="https://instagram.com/vaibhav_biryani_lover" target="_blank">@vaibhav_biryani_lover</a></p>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>© 2025 Vaibhav Rao - All Rights Reserved | Made with ❤️ for Biryani</p>
+    </footer>
+
+</body>
+</html>
